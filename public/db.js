@@ -45,7 +45,7 @@ function checkDatabase() {
                         const currentStore = transaction.objectStore('BudgetStore');
                         // Clear existing entries because our bulk add was successful
                         currentStore.clear();
-                        console.log('Clearing store :broom:');
+                        console.log('Clear!');
                     }
                 });
         }
@@ -56,7 +56,7 @@ request.onsuccess = function (e) {
     db = e.target.result;
     // Check if app is online before reading from db
     if (navigator.onLine) {
-        console.log('Backend online! :file_cabinet:');
+        console.log('Backend online!');
         checkDatabase();
     }
 };

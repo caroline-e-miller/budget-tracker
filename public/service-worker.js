@@ -1,3 +1,4 @@
+console.log("Howdy! It's your friendly service worker!")
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
