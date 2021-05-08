@@ -16,6 +16,13 @@ Budget Tracker is an application that allows you to keep track of earning and sp
 
 The user will be presented with a form to fill out, which includes transaction name, amount, and a choice to add or subtract funds based upon that transaction. When the user has entered the necessary information, a graph below will be updated to reflect the users' transaction history.
 
+## Technologies Used
+
+- Progressive Web Applications
+- Mongo Atlas
+- Mongoose
+- JavaScript
+
 ### Deployed Link
 
 https://intense-beyond-50703.herokuapp.com/
