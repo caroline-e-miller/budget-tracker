@@ -29,4 +29,5 @@ https://intense-beyond-50703.herokuapp.com/
 
 ### Screenshots
 
-![Screen Shot 2021-05-07 at 7 30 28 PM (2)](https://user-images.githubusercontent.com/70964778/117519791-c582a600-af6a-11eb-90fd-3a7e1a4366e4.png)
+<img width="1276" alt="Screen Shot 2021-05-08 at 11 30 21 AM" src="https://user-images.githubusercontent.com/70964778/117546622-f0afd880-aff0-11eb-8bee-918a4eb100e2.png">
+
